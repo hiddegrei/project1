@@ -1,2 +1,2 @@
 const bug = "fixmain2";
-const new2 = "testing";
+const new2 = "testings";
