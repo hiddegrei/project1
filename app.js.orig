@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+const bug = "fixmain2";
+const new2 = "main";
+=======
+const bug = "fixtesting";
+const new2 = "testing";
+>>>>>>> testing
