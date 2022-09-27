@@ -1,1 +1,2 @@
-const bug = "fixtesting";
+
+const bug = "fixmain";
