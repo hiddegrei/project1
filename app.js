@@ -1,2 +1,2 @@
-
-const bug = "fixmain";
+const bug = "fixtesting";
+const new2 = "testing";
